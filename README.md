@@ -10,6 +10,3 @@ To run this project on your system you should have MySql,Python installed on you
 <br/>Limitation of system is that :-
 1) It does not allow user to subscribe two or more topics
 2) It sends the mail when sendmail.py is run.
-<br/><br/> Future goals:-
-1) Add proper frontend in the project
-2) Allow the user to subscribe to two or more topics
