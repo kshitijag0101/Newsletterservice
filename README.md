@@ -7,9 +7,9 @@ main.py is used for admin login and user login where admin can add the topic and
 sendmail.py is used to send the mail to the users at the time specified by the admin.
 In the project I have used MySQL as database and libraries like mysql-connector , STMP ,SSL ,time to schedule and send the message.
 To run this project on your system you should have MySql,Python installed on your system. You just have to set the password of MySql in main.py and create a database named newsletter in MySql also enter admin details in admin table and you are ready to go then in sendmail.py you just have to change the email and password of the sender to start your service.
-1- Limitation of system is that -
+<br/>Limitation of system is that -
 1) It does not allow user to subscribe two or more topics
 2) It sends the mail when sendmail.py is run.
-2- Future goals:-
+<br/> Future goals:-
 1) Add proper frontend in the project
 2) Allow the user to subscribe to two or more topics
